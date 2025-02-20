@@ -1,20 +1,19 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![Iawfy22](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/Iawfy22)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+🏠 山东-枣庄    📅 2004-2-23  
+🎡 汉族         🚩 预备党员
 
-#### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+#### ✉ Email  
+<code>zyf18563229910@163.com</code>  
 
-#### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+#### 🎓Education  
+**山东财经大学**                         济南<br>
+本科  计算机科学与技术学院  计算机科学与技术（金融信息化）
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+- GPA：4.41 / 5.00
+- 干部经历：
+  - 任金信2201班 副班长
+  - 2024——2024学年和2024——2025学年担任计算机协会副会长
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
-
-#### Research Interests  
-XX, XX, XX, XX.
+#### ⭐ Research Interests  
+- 深度学习 & 时间序列
