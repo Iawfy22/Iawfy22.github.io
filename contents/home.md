@@ -13,7 +13,7 @@
 #### ✉ Find Me
 - Email：<code>zyf18563229910@163.com</code>
 - Github：[![Iawfy22](https://img.shields.io/badge/Iawfy22-github-blue?logo=github)](https://github.com/Iawfy22)
-- CSDN：[![CSDN](https://img-home.csdnimg.cn/images/20201124032511.png)](https://blog.csdn.net/Iawfy22?spm=1000.2115.3001.5343)
+- CSDN：<a href="https://blog.csdn.net/lawfy22?spm=1000.2115.3001.5343" class="custom-link"><i class="fas fa-external-link-alt"></i> CSDN</a>
 
 #### ⭐ Research Interests  
 - 深度学习 & 时间序列
