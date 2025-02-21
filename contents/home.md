@@ -1,4 +1,4 @@
-<h1><font color=LightSlateBlue>张艺丰</font></h1>
+<h1><font color=MediumBlue>张艺丰</font></h1>
 🏠 山东-枣庄 &nbsp; &nbsp; 📅 2004-2-23  
 🎡 汉族 &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;🚩 预备党员
 
