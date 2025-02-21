@@ -16,4 +16,4 @@
 - Github：[![Iawfy22](https://img.shields.io/badge/Iawfy22-github-blue?logo=github)](https://github.com/Iawfy22)
 - CSDN：[![CSDN](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://blog.csdn.net/Iawfy22?spm=1000.2115.3001.5343)
 #### ⭐ Research Interests  
-- 深度学习 & 时间序列
+- 深度学习 & 时间序列 & 时间序列异常检测
