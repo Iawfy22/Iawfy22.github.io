@@ -1,7 +1,12 @@
-### xxx
-**时间xxx**  
+### 网吧管理系统
+**2024-10 —— 2024-12**  
 
-#### Key Contributions:  
+#### 项目介绍
+
+#### 技术实现
+- 前端：html、css、javascript
+- 后端：php
+- 数据库：MySQL
 
 ---
 
