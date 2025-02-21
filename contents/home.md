@@ -2,6 +2,7 @@
 🏠 山东-枣庄 &nbsp; &nbsp; 📅 2004-2-23  <br>
 🎡 汉族 &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;🚩 预备党员
 <br><br>
+
 #### 🎓 Education  
 **山东财经大学** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;济南<br>
 本科 &nbsp; | &nbsp; 计算机科学与技术学院 &nbsp; | &nbsp; 计算机科学与技术（金融信息化）
