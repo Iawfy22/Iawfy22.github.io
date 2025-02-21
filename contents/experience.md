@@ -10,7 +10,7 @@
 
 #### 备注
 数据库原理课程设计大作业 <br>
-相关文档以及代码已经上传至<a href="https://github.com/Iawfy22/WangBa>Github<//a>
+相关文档以及代码已经上传至<a href="https://github.com/Iawfy22/WangBa">Github</a>
 
 ---
 
